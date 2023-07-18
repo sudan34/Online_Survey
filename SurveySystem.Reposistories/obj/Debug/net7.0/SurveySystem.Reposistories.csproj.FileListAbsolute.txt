@@ -1,0 +1,15 @@
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\bin\Debug\net7.0\SurveySystem.Reposistories.deps.json
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\bin\Debug\net7.0\SurveySystem.Reposistories.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\bin\Debug\net7.0\SurveySystem.Reposistories.pdb
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\bin\Debug\net7.0\SurveySystem.Models.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\bin\Debug\net7.0\SurveySystem.Models.pdb
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.csproj.AssemblyReference.cache
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.AssemblyInfoInputs.cache
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.AssemblyInfo.cs
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.csproj.CoreCompileInputs.cache
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.csproj.CopyComplete
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\refint\SurveySystem.Reposistories.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\SurveySystem.Reposistories.pdb
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Reposistories\obj\Debug\net7.0\ref\SurveySystem.Reposistories.dll

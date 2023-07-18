@@ -1,0 +1,12 @@
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\bin\Debug\net7.0\SurveySystem.Models.deps.json
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\bin\Debug\net7.0\SurveySystem.Models.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\bin\Debug\net7.0\SurveySystem.Models.pdb
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.csproj.AssemblyReference.cache
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.AssemblyInfoInputs.cache
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.AssemblyInfo.cs
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.csproj.CoreCompileInputs.cache
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\refint\SurveySystem.Models.dll
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\SurveySystem.Models.pdb
+D:\Learning\Learning MVC .net  framework]\Online Survery System Project\SurveySystem.Model\obj\Debug\net7.0\ref\SurveySystem.Models.dll
